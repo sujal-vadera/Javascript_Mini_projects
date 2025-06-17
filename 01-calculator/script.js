@@ -1,1 +1,3 @@
-hello
+const welcome = {
+    console
+}
