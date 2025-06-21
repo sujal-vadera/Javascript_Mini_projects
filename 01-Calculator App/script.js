@@ -17,6 +17,8 @@ clearBtn.addEventListener("click", () => {
 })
 
 
+
+
 // eqal btn
 const eqalBtn = document.querySelector(".enter_btn")
 
